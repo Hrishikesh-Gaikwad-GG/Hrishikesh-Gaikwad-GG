@@ -31,10 +31,17 @@
 
 <h3>My most recent work on Kaggle</h3>
 <ul>
-  <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414](https://www.kaggle.com/code/guddugole/imdb-sentiment-analysis-with-pytorch-rnns"><i>Sentiment Analysis on IMDb Movie Reviews using RNN Variants</i></a></li>
   <li><a href="https://www.kaggle.com/code/guddugole/pet-segmentation-u-net-resnet-34-pytorch"><i>Semantic Segmentation of Pets</i></a></li>
   <li><a href="https://www.kaggle.com/code/guddugole/face-emotion-recognition-yolo-resnet"><i>End-to-End Face Emotion Recognition System</i></a></li>
+  <li><a href="https://www.kaggle.com/code/guddugole/imdb-sentiment-analysis-with-pytorch-rnns"><i>Sentiment Analysis on IMDb Movie Reviews using RNN Variants</i></a></li>
   <li><a href="https://www.kaggle.com/code/guddugole/image-classification-cnn-optuna-resnet-18"><i>Image Classification using PyTorch</i></a></li>
+</ul>
+
+<h3>Deployed project Links</h3>
+<ul>
+  <li><a href="https://pet-segmentation.streamlit.app/"><i>Semantic Segmentation of Pets</i></a></li>
+  <li><a href="https://face-detection-and-emotion-recognition.streamlit.app/"><i>End-to-End Face Emotion Recognition System</i></a></li>
+  <li><a href="https://sentiment-analysis-using-rnns-with-pytorch.streamlit.app/"><i>Sentiment Analysis on IMDb Movie Reviews using RNN Variants</i></a></li>
 </ul>
 
 
