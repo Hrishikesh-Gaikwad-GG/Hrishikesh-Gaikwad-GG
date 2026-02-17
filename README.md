@@ -40,7 +40,7 @@
 <h3>Deployed project Links</h3>
 <ul>
   <li><a href="https://pet-segmentation.streamlit.app/"><i>Semantic Segmentation of Pets</i></a></li>
-  <li><a href="https://face-detection-and-emotion-recognition.streamlit.app/"><i>End-to-End Face Emotion Recognition System</i></a></li>
+  <li><a href="https://face-emotion-recognition-system.streamlit.app/"><i>End-to-End Face Emotion Recognition System</i></a></li>
   <li><a href="https://sentiment-analysis-using-rnns-with-pytorch.streamlit.app/"><i>Sentiment Analysis on IMDb Movie Reviews using RNN Variants</i></a></li>
 </ul>
 
